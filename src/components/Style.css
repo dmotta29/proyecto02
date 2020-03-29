@@ -1,0 +1,14 @@
+.header-top {
+    background-image: linear-gradient( darkgray,green);
+}   
+
+.image{
+    padding-left: 350px;
+    vertical-align: middle;
+}
+.header-text{
+   text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
